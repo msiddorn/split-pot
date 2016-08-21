@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+venv
+.env
+tests/system/.cache/
